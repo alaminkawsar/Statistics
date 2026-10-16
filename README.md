@@ -1,2 +1,2 @@
 # Statistics
-Practical learning statistics
+Practical statistics learning 
